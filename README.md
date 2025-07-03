@@ -28,7 +28,7 @@ The goal was to extract actionable insights using Excel-based analysis and story
 
 ## 📁 Files Included
 
-- `Vodka_Consumer_Survey_Report_Zeeshan_Khan.docx`  
+- `Vodka Consumption Analysis Report.pdf`  
   → Full report including analysis, visuals, insights, and appendix.
 
 - `README.md`  
