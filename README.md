@@ -1,4 +1,4 @@
-# Vodka Consumer Survey – Data Analysis & Packaging Feedback  
+# Vodka Consumer Survey – Data Analysis
 **Prepared by:** Zeeshan Khan
 
 ---
